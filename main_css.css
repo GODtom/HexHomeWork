@@ -373,5 +373,5 @@ table {
     background: transparent url('img/line.png') 0% 0% no-repeat padding-box;
     opacity: 1;
     border: 0px;
-    padding: 10px;
+    /* padding: 10px; */
 }
